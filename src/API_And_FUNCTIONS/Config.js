@@ -10,4 +10,4 @@ const url = `${protocol}${domain}`
 
 export default url
 
-export const defaulturl = "http://localhost:82/"
+export const defaulturl = "http://localhost:8000/"
